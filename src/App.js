@@ -9,7 +9,7 @@ export default function App() {
       <h1>Weather forecast🌡</h1>
       <WeatherSearch />
       <footer>
-        <a href="" target="_blank">
+        <a href="https://github.com/KateRom98/my-app" target="_blank">
           Open-source code
         </a>
         by Kateryna Dibtsova
